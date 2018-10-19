@@ -1,0 +1,1 @@
+# Project configuration with Webpack + Babel + ES6 + SASS
